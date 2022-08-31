@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"my first blog",
+            "body":"micheal jackson is my best friend, but i never met him . ",
+            "author":"jay kay",
+            "id":1
+        },
+        {
+            "title":"my second blog",
+            "body":"eminem is my best friend, but i never met him . ",
+            "author":"james",
+            "id":2  
+        }
+    ]
+}
